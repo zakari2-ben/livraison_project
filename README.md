@@ -72,7 +72,8 @@ projet-livraison/
 ---
 
 ## 👨‍💻 Auteur
-Développé par **[Ton Nom]**  
+Développé par **[zakaria ben fatah]**  
+email : **[riariazakaria6@gmail.com]**
 Projet académique – Application de gestion des livraisons en ligne.
 
 ---
